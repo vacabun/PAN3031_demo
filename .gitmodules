@@ -1,0 +1,3 @@
+[submodule "Arduino_uart_oled_terminal"]
+	path = Arduino_uart_oled_terminal
+	url = git@github.com:vacabun/Arduino_uart_oled_terminal.git
