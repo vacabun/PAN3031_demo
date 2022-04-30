@@ -17,9 +17,6 @@
     <list default="true" id="18310d00-5fe2-4ba5-89f5-a3af2cd4527c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/Src/rf_process.c" beforeDir="false" afterPath="$PROJECT_DIR$/App/Src/rf_process.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/project.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/project.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +102,7 @@
       <workItem from="1651310763316" duration="278000" />
       <workItem from="1651311124757" duration="754000" />
       <workItem from="1651312231579" duration="776000" />
-      <workItem from="1651322336407" duration="507000" />
+      <workItem from="1651322336407" duration="763000" />
     </task>
     <servers />
   </component>

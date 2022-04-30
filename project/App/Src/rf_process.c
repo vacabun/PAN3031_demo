@@ -47,7 +47,7 @@ void rf_rx_demo(void){
 
         // log
         printf("RSSI:%.03f\r\n", Rssi_dBm);
-        printf("SNR:%.03f\r\n",Snr_value);
+        printf("SNR:%.03f\r\n", Snr_value);
         printf("RX:{");
         for (uint8_t i = 0; i < rx_len; i++)
         {
