@@ -1,0 +1,62 @@
+//
+// Created by maguo on 2022/4/30.
+//
+#include "rf_process.h"
+#include "radio.h"
+#include "main.h"
+
+extern struct RxDoneMsg RxDoneParams;
+
+
+uint64_t tx_times = 0;
+void rf_tx_demo(void){
+
+    tx_times++;
+
+    uint8_t tx_test_buf[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+
+    if (rf_continous_tx_send_data(tx_test_buf, 10) == OK)
+    {
+
+        // wait for TX Done. transmit flag will be set when TXDONE IRQ received
+        while (RADIO_FLAG_IDLE == rf_get_transmit_flag())
+            ;
+        rf_set_transmit_flag(RADIO_FLAG_IDLE);
+        printf("msg index %lld send finish.\r\n",tx_times);
+    }
+    else
+    {
+        printf("send err.\r\n");
+    }
+
+}
+
+void rf_rx_demo(void){
+    uint8_t rx_buf[100] = {0};
+    if (rf_get_recv_flag() == RADIO_FLAG_RXDONE)
+    {
+        rf_set_recv_flag(RADIO_FLAG_IDLE);
+        double Rssi_dBm = RxDoneParams.Rssi;
+        double Snr_value = RxDoneParams.Snr;
+        uint16_t rx_len = RxDoneParams.Size;
+
+        for (uint8_t i = 0; i < rx_len; i++)
+        {
+            rx_buf[i] = RxDoneParams.Payload[i];
+        }
+
+        // log
+        printf("Rssi_dBm: %lf\r\n", Rssi_dBm);
+        printf("Snr_value: %lf\r\n",Snr_value);
+        printf("RX Data: {");
+        for (uint8_t i = 0; i < rx_len; i++)
+        {
+            printf(" %02x",rx_buf[i]);
+        }
+        printf(" }\r\n");
+    }
+    if ((rf_get_recv_flag() == RADIO_FLAG_RXTIMEOUT) || (rf_get_recv_flag() == RADIO_FLAG_RXERR))
+    {
+        rf_set_recv_flag(RADIO_FLAG_IDLE);
+    }
+}
