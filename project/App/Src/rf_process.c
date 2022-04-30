@@ -46,14 +46,14 @@ void rf_rx_demo(void){
         }
 
         // log
-        printf("Rssi_dBm: %lf\r\n", Rssi_dBm);
-        printf("Snr_value: %lf\r\n",Snr_value);
-        printf("RX Data: {");
+        printf("RSSI:%.03f\r\n", Rssi_dBm);
+        printf("SNR:%.03f\r\n",Snr_value);
+        printf("RX:{");
         for (uint8_t i = 0; i < rx_len; i++)
         {
-            printf(" %02x",rx_buf[i]);
+            printf(" %x",rx_buf[i]);
         }
-        printf(" }\r\n");
+        printf("}\r\n");
     }
     if ((rf_get_recv_flag() == RADIO_FLAG_RXTIMEOUT) || (rf_get_recv_flag() == RADIO_FLAG_RXERR))
     {

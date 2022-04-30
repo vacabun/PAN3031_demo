@@ -14,7 +14,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18310d00-5fe2-4ba5-89f5-a3af2cd4527c" name="Changes" comment="" />
+    <list default="true" id="18310d00-5fe2-4ba5-89f5-a3af2cd4527c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Src/rf_process.c" beforeDir="false" afterPath="$PROJECT_DIR$/App/Src/rf_process.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/project.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/project.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,9 +68,9 @@
     </key>
   </component>
   <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD project">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="project.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project" TARGET_NAME="project.elf" CONFIG_NAME="Debug_STM32" RUN_TARGET_PROJECT_NAME="project" RUN_TARGET_NAME="project.elf">
@@ -73,7 +79,7 @@
       </method>
     </configuration>
     <configuration name="OCD project" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project" TARGET_NAME="project.elf" CONFIG_NAME="Debug_STM32" version="1" RUN_TARGET_PROJECT_NAME="project" RUN_TARGET_NAME="project.elf">
-      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\maguo\Desktop\PAN3031_Easy_Demo\project\board.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\maguo\Desktop\PAN3031_demo\project\board.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
         <debugger toolchainName="MinGW_STM32" />
       </openocd>
       <method v="2">
@@ -97,6 +103,9 @@
       <workItem from="1651301066670" duration="1491000" />
       <workItem from="1651302694837" duration="7939000" />
       <workItem from="1651310763316" duration="278000" />
+      <workItem from="1651311124757" duration="754000" />
+      <workItem from="1651312231579" duration="776000" />
+      <workItem from="1651322336407" duration="507000" />
     </task>
     <servers />
   </component>
