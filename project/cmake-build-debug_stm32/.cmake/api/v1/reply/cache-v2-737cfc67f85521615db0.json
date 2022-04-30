@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/maguo/Desktop/PAN3031_demo/project/cmake-build-debug_stm32"
+			"value" : "c:/Users/k/Desktop/PAN3031_demo/project/cmake-build-debug_stm32"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -211,7 +211,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/cmake.exe"
+			"value" : "D:/JetBrains/CLion 2020.2.1/bin/cmake/win/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -223,7 +223,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/cpack.exe"
+			"value" : "D:/JetBrains/CLion 2020.2.1/bin/cmake/win/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -235,7 +235,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/ctest.exe"
+			"value" : "D:/JetBrains/CLion 2020.2.1/bin/cmake/win/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/dlltool.exe"
+			"value" : "D:/JetBrains/CLion 2020.2.1/bin/mingw/bin/dlltool.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -655,7 +655,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/maguo/Desktop/PAN3031_demo/project"
+			"value" : "C:/Users/k/Desktop/PAN3031_demo/project"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -695,7 +695,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/ninja/win/ninja.exe"
+			"value" : "D:/JetBrains/CLion 2020.2.1/bin/ninja/win/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -895,7 +895,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/share/cmake-3.21"
+			"value" : "D:/JetBrains/CLion 2020.2.1/bin/cmake/win/share/cmake-3.21"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maguo/Desktop/PAN3031_demo/project/cmake-build-debug_stm32"
+			"value" : "C:/Users/k/Desktop/PAN3031_demo/project/cmake-build-debug_stm32"
 		},
 		{
 			"name" : "project_IS_TOP_LEVEL",
@@ -1155,7 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maguo/Desktop/PAN3031_demo/project"
+			"value" : "C:/Users/k/Desktop/PAN3031_demo/project"
 		}
 	],
 	"kind" : "cache",

@@ -8,10 +8,10 @@
 		},
 		"paths" : 
 		{
-			"cmake" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/cmake.exe",
-			"cpack" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/cpack.exe",
-			"ctest" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/ctest.exe",
-			"root" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/share/cmake-3.21"
+			"cmake" : "D:/JetBrains/CLion 2020.2.1/bin/cmake/win/bin/cmake.exe",
+			"cpack" : "D:/JetBrains/CLion 2020.2.1/bin/cmake/win/bin/cpack.exe",
+			"ctest" : "D:/JetBrains/CLion 2020.2.1/bin/cmake/win/bin/ctest.exe",
+			"root" : "D:/JetBrains/CLion 2020.2.1/bin/cmake/win/share/cmake-3.21"
 		},
 		"version" : 
 		{
@@ -26,7 +26,7 @@
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-213525d4aca4958f67c8.json",
+			"jsonFile" : "codemodel-v2-874688d3d16b9a1eefea.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-3552894c52bb5de96a6d.json",
+			"jsonFile" : "cache-v2-737cfc67f85521615db0.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-c571eb35e76566477783.json",
+			"jsonFile" : "cmakeFiles-v1-bbeda4101c39b01d8542.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-3552894c52bb5de96a6d.json",
+			"jsonFile" : "cache-v2-737cfc67f85521615db0.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-c571eb35e76566477783.json",
+			"jsonFile" : "cmakeFiles-v1-bbeda4101c39b01d8542.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -86,7 +86,7 @@
 		},
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-213525d4aca4958f67c8.json",
+			"jsonFile" : "codemodel-v2-874688d3d16b9a1eefea.json",
 			"kind" : "codemodel",
 			"version" : 
 			{

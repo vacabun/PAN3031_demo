@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/maguo/Desktop/PAN3031_demo/project
+# Install script for directory: C:/Users/k/Desktop/PAN3031_demo/project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/maguo/Desktop/PAN3031_demo/project/cmake-build-debug_stm32/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/k/Desktop/PAN3031_demo/project/cmake-build-debug_stm32/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

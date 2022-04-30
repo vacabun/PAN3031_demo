@@ -156,31 +156,31 @@
 			[
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/App/Inc"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/App/Inc"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Radio/inc"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Radio/inc"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Core/Inc"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Core/Inc"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -294,31 +294,31 @@
 			[
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/App/Inc"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/App/Inc"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Radio/inc"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Radio/inc"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Core/Inc"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Core/Inc"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/maguo/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include"
+					"path" : "C:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
@@ -343,7 +343,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/maguo/Desktop/PAN3031_demo/project/cmake-build-debug_stm32/project.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/k/Desktop/PAN3031_demo/project/cmake-build-debug_stm32/project.map",
 				"role" : "flags"
 			},
 			{
@@ -368,7 +368,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:/Users/maguo/Desktop/PAN3031_demo/project/STM32F030C8Tx_FLASH.ld",
+				"fragment" : "C:/Users/k/Desktop/PAN3031_demo/project/STM32F030C8Tx_FLASH.ld",
 				"role" : "flags"
 			},
 			{

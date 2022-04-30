@@ -54,6 +54,7 @@ void rf_rx_demo(void){
             printf(" %x",rx_buf[i]);
         }
         printf("}\r\n");
+        HAL_GPIO_TogglePin(LED_GPIO_Port,LED_Pin);
     }
     if ((rf_get_recv_flag() == RADIO_FLAG_RXTIMEOUT) || (rf_get_recv_flag() == RADIO_FLAG_RXERR))
     {
