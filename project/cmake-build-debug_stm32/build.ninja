@@ -68,8 +68,6 @@ build CMakeFiles/project.elf.dir/App/Src/rf_process.c.obj: C_COMPILER__project.2
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\App\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Core/Src/gpio.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -78,8 +76,6 @@ build CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj: C_COMPILER__project.2eelf_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Core/Src/main.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Core/Src/main.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -88,8 +84,6 @@ build CMakeFiles/project.elf.dir/Core/Src/main.c.obj: C_COMPILER__project.2eelf_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Core/Src/spi.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Core/Src/spi.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -98,8 +92,6 @@ build CMakeFiles/project.elf.dir/Core/Src/spi.c.obj: C_COMPILER__project.2eelf_D
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Core/Src/stm32f0xx_hal_msp.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Core/Src/stm32f0xx_hal_msp.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -108,8 +100,6 @@ build CMakeFiles/project.elf.dir/Core/Src/stm32f0xx_hal_msp.c.obj: C_COMPILER__p
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Core/Src/stm32f0xx_it.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Core/Src/stm32f0xx_it.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -118,8 +108,6 @@ build CMakeFiles/project.elf.dir/Core/Src/stm32f0xx_it.c.obj: C_COMPILER__projec
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Core/Src/syscalls.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -128,8 +116,6 @@ build CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj: C_COMPILER__project.2e
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Core/Src/system_stm32f0xx.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Core/Src/system_stm32f0xx.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -138,8 +124,6 @@ build CMakeFiles/project.elf.dir/Core/Src/system_stm32f0xx.c.obj: C_COMPILER__pr
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Core/Src/usart.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Core/Src/usart.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -148,8 +132,6 @@ build CMakeFiles/project.elf.dir/Core/Src/usart.c.obj: C_COMPILER__project.2eelf
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -158,8 +140,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -168,8 +148,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -178,8 +156,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -188,8 +164,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -198,8 +172,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -208,8 +180,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -218,8 +188,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -228,8 +196,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -238,8 +204,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -248,8 +212,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -258,8 +220,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -268,8 +228,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -278,8 +236,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_spi.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_spi.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -288,8 +244,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_spi_ex.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_spi_ex.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -298,8 +252,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -308,8 +260,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -318,8 +268,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -328,8 +276,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart_ex.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart_ex.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -338,8 +284,6 @@ build CMakeFiles/project.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Radio/src/crc.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Radio/src/crc.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -348,8 +292,6 @@ build CMakeFiles/project.elf.dir/Radio/src/crc.c.obj: C_COMPILER__project.2eelf_
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Radio\src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Radio/src/pan3031.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Radio/src/pan3031.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -358,8 +300,6 @@ build CMakeFiles/project.elf.dir/Radio/src/pan3031.c.obj: C_COMPILER__project.2e
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Radio\src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Radio/src/pan3031_port.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Radio/src/pan3031_port.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -368,8 +308,6 @@ build CMakeFiles/project.elf.dir/Radio/src/pan3031_port.c.obj: C_COMPILER__proje
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Radio\src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/Radio/src/radio.c.obj: C_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/Radio/src/radio.c || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -378,8 +316,6 @@ build CMakeFiles/project.elf.dir/Radio/src/radio.c.obj: C_COMPILER__project.2eel
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\Radio\src
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 build CMakeFiles/project.elf.dir/startup/startup_stm32f030x8.s.obj: ASM_COMPILER__project.2eelf_Debug C$:/Users/k/Desktop/PAN3031_demo/project/startup/startup_stm32f030x8.s || cmake_object_order_depends_target_project.elf
   DEFINES = -DSTM32F030x8 -DUSE_HAL_DRIVER
@@ -388,8 +324,6 @@ build CMakeFiles/project.elf.dir/startup/startup_stm32f030x8.s.obj: ASM_COMPILER
   INCLUDES = -IC:/Users/k/Desktop/PAN3031_demo/project/App/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Radio/inc -IC:/Users/k/Desktop/PAN3031_demo/project/Core/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IC:/Users/k/Desktop/PAN3031_demo/project/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\project.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\project.elf.dir\startup
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
-  TARGET_PDB = project.elf.pdb
 
 
 # =============================================================================
@@ -405,9 +339,8 @@ build project.elf: C_EXECUTABLE_LINKER__project.2eelf_Debug CMakeFiles/project.e
   OBJECT_DIR = CMakeFiles\project.elf.dir
   POST_BUILD = cmd.exe /C "cd /D C:\Users\k\Desktop\PAN3031_demo\project\cmake-build-debug_stm32 && arm-none-eabi-objcopy -Oihex C:/Users/k/Desktop/PAN3031_demo/project/cmake-build-debug_stm32/project.elf C:/Users/k/Desktop/PAN3031_demo/project/cmake-build-debug_stm32/project.hex && arm-none-eabi-objcopy -Obinary C:/Users/k/Desktop/PAN3031_demo/project/cmake-build-debug_stm32/project.elf C:/Users/k/Desktop/PAN3031_demo/project/cmake-build-debug_stm32/project.bin"
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\project.elf.dir\
   TARGET_FILE = project.elf
-  TARGET_PDB = project.elf.pdb
+  TARGET_PDB = project.elf.dbg
 
 
 #############################################
@@ -440,14 +373,14 @@ build all: phony project.elf
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeASMCompiler.cmake CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeASMCompiler.cmake.in D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeASMInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCCompiler.cmake.in D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCCompilerABI.c D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXCompiler.cmake.in D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCompilerIdDetection.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineASMCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCXXCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompileFeatures.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompilerABI.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompilerId.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeFindBinUtils.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseImplicitIncludeInfo.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseImplicitLinkInfo.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseLibraryArchitecture.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystem.cmake.in D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestASMCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCXXCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCompilerCommon.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ADSP-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ARMCC-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ARMClang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/AppleClang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Borland-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Bruce-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompilerInternal.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Compaq-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Cray-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Embarcadero-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Fujitsu-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GHS-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-ASM.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-FindBinUtils.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/HP-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/HP-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IAR-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Intel-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/MSVC-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/NVHPC-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/NVIDIA-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/PGI-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/PathScale-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ROCMClang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SCO-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SDCC-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SunPro-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/TI-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Watcom-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XL-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XL-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XLClang-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/zOS-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Internal/FeatureTesting.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Generic.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeASMCompiler.cmake CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeASMInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-ASM.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Generic.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeASMCompiler.cmake CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeASMCompiler.cmake.in D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeASMInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCCompiler.cmake.in D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCCompilerABI.c D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXCompiler.cmake.in D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCompilerIdDetection.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineASMCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCXXCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompileFeatures.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompilerABI.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompilerId.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeFindBinUtils.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseImplicitIncludeInfo.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseImplicitLinkInfo.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseLibraryArchitecture.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystem.cmake.in D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestASMCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCXXCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCompilerCommon.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ADSP-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ARMCC-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ARMClang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/AppleClang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Borland-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Bruce-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompilerInternal.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Compaq-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Cray-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Embarcadero-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Fujitsu-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GHS-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-ASM.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-FindBinUtils.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/HP-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/HP-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IAR-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Intel-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/MSVC-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/NVHPC-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/NVIDIA-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/PGI-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/PathScale-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ROCMClang-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SCO-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SDCC-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SunPro-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/TI-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Watcom-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XL-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XL-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XLClang-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/zOS-C-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Internal/FeatureTesting.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Generic.cmake: phony
+build ../CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeASMCompiler.cmake CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeASMInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-ASM.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/JetBrains/CLion$ 2020.2.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Generic.cmake: phony
 
 
 #############################################

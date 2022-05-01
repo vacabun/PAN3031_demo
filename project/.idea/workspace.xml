@@ -15,32 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18310d00-5fe2-4ba5-89f5-a3af2cd4527c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Inc/rf_process.h" beforeDir="false" afterPath="$PROJECT_DIR$/App/Inc/rf_process.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/Src/rf_process.c" beforeDir="false" afterPath="$PROJECT_DIR$/App/Src/rf_process.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/gpio.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/gpio.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.cmake/api/v1/reply/cache-v2-3552894c52bb5de96a6d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.cmake/api/v1/reply/cmakeFiles-v1-c571eb35e76566477783.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.cmake/api/v1/reply/codemodel-v2-213525d4aca4958f67c8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.cmake/api/v1/reply/index-2022-04-30T12-39-59-0674.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.cmake/api/v1/reply/target-project.elf-Debug-f9410a37df8ea3f64556.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug_stm32/project.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug_stm32/project.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/project.ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +65,9 @@
     </key>
   </component>
   <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD project">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="project.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project" TARGET_NAME="project.elf" CONFIG_NAME="Debug_STM32" RUN_TARGET_PROJECT_NAME="project" RUN_TARGET_NAME="project.elf">
@@ -129,6 +105,7 @@
       <workItem from="1651322336407" duration="763000" />
       <workItem from="1651324737863" duration="633000" />
       <workItem from="1651325831884" duration="1162000" />
+      <workItem from="1651386803358" duration="2000" />
     </task>
     <servers />
   </component>
