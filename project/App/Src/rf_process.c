@@ -34,16 +34,14 @@ void rf_tx_demo(void){
         while (RADIO_FLAG_IDLE == rf_get_transmit_flag())
             ;
         rf_set_transmit_flag(RADIO_FLAG_IDLE);
+        LedToggle();
         printf("msg index %lu send finish.\r\n",tx_times);
     }
     else
     {
+        HAL_GPIO_WritePin(LED_GPIO_Port,LED_Pin,GPIO_PIN_RESET);
         printf("send err.\r\n");
     }
-    //HAL_GPIO_TogglePin(LED_GPIO_Port,LED_Pin);
-    HAL_GPIO_WritePin(LED_GPIO_Port,LED_Pin,RESET);
-    HAL_Delay(10);
-    HAL_GPIO_WritePin(LED_GPIO_Port,LED_Pin,SET);
 }
 
 void rf_rx_demo(void){
@@ -59,6 +57,7 @@ void rf_rx_demo(void){
         {
             rx_buf[i] = RxDoneParams.Payload[i];
         }
+        LedToggle();
 
         // log
         printf("RSSI:%.03f\r\n", Rssi_dBm);
@@ -69,7 +68,6 @@ void rf_rx_demo(void){
             printf(" %x",rx_buf[i]);
         }
         printf("}\r\n");
-        HAL_GPIO_TogglePin(LED_GPIO_Port,LED_Pin);
     }
     if ((rf_get_recv_flag() == RADIO_FLAG_RXTIMEOUT) || (rf_get_recv_flag() == RADIO_FLAG_RXERR))
     {
