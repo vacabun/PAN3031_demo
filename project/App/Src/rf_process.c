@@ -8,12 +8,24 @@
 extern struct RxDoneMsg RxDoneParams;
 
 
-uint64_t tx_times = 0;
+uint32_t tx_times = 0;
+uint8_t temp;
+uint8_t n = 0;
 void rf_tx_demo(void){
 
     tx_times++;
-
     uint8_t tx_test_buf[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+    int len = sizeof(tx_test_buf) / sizeof(tx_test_buf[0]);
+    n++;
+    if(n == 10)
+        n = 0;
+    for (int i = 0; i < n; i++) {
+        temp = tx_test_buf[0];
+        for (int j = 0; j < len - 1; j++) {
+            tx_test_buf[j] = tx_test_buf[j + 1];
+        }
+        tx_test_buf[len - 1] = temp;
+    }
 
     if (rf_continous_tx_send_data(tx_test_buf, 10) == OK)
     {
@@ -22,13 +34,16 @@ void rf_tx_demo(void){
         while (RADIO_FLAG_IDLE == rf_get_transmit_flag())
             ;
         rf_set_transmit_flag(RADIO_FLAG_IDLE);
-        printf("msg index %lld send finish.\r\n",tx_times);
+        printf("msg index %lu send finish.\r\n",tx_times);
     }
     else
     {
         printf("send err.\r\n");
     }
-
+    //HAL_GPIO_TogglePin(LED_GPIO_Port,LED_Pin);
+    HAL_GPIO_WritePin(LED_GPIO_Port,LED_Pin,RESET);
+    HAL_Delay(10);
+    HAL_GPIO_WritePin(LED_GPIO_Port,LED_Pin,SET);
 }
 
 void rf_rx_demo(void){
