@@ -58,7 +58,11 @@ void SystemClock_Config(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-
+void LedToggle(void){
+    HAL_GPIO_WritePin(LED_GPIO_Port,LED_Pin,RESET);
+    HAL_Delay(10);
+    HAL_GPIO_WritePin(LED_GPIO_Port,LED_Pin,SET);
+}
 /* USER CODE END 0 */
 
 /**
