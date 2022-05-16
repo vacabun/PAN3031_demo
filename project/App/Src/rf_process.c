@@ -9,12 +9,14 @@ extern struct RxDoneMsg RxDoneParams;
 
 
 uint32_t tx_times = 0;
+uint32_t rx_times = 0;
 uint8_t temp;
 uint8_t n = 0;
+uint32_t time= 0;
 void rf_tx_demo(void){
 
     tx_times++;
-    uint8_t tx_test_buf[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+    uint8_t tx_test_buf[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
     int len = sizeof(tx_test_buf) / sizeof(tx_test_buf[0]);
     n++;
     if(n == 10)
@@ -27,24 +29,34 @@ void rf_tx_demo(void){
         tx_test_buf[len - 1] = temp;
     }
 
-    if (rf_continous_tx_send_data(tx_test_buf, 10) == OK)
+    //for(int j=1;j<len;j++){
+    printf("msg index %lu send finish.\r\n",tx_times);
+    for (uint8_t i = 0; i < len; i++)
+    {
+        printf(" %x",tx_test_buf[i]);
+    }
+    if (rf_continous_tx_send_data(tx_test_buf, len) == OK)
     {
 
         // wait for TX Done. transmit flag will be set when TXDONE IRQ received
         while (RADIO_FLAG_IDLE == rf_get_transmit_flag())
             ;
         rf_set_transmit_flag(RADIO_FLAG_IDLE);
+        time = rf_get_tx_time();
+        //printf("msg len: %d char--> tx_time: %lu ms.\r\n",len,time);
         LedToggle();
-        printf("msg index %lu send finish.\r\n",tx_times);
+        //printf("msg index %lu send finish.\r\n",tx_times);
     }
     else
     {
         HAL_GPIO_WritePin(LED_GPIO_Port,LED_Pin,GPIO_PIN_RESET);
-        printf("send err.\r\n");
+        //printf("send err.\r\n");
     }
+//}
 }
 
 void rf_rx_demo(void){
+
     uint8_t rx_buf[100] = {0};
     if (rf_get_recv_flag() == RADIO_FLAG_RXDONE)
     {
@@ -57,17 +69,19 @@ void rf_rx_demo(void){
         {
             rx_buf[i] = RxDoneParams.Payload[i];
         }
-        LedToggle();
 
         // log
-        printf("RSSI:%.03f\r\n", Rssi_dBm);
-        printf("SNR:%.03f\r\n", Snr_value);
-        printf("RX:{");
+        //printf("RSSI:%.03f\r\n", Rssi_dBm);
+        //printf("SNR:%.03f\r\n", Snr_value);
+        //printf("RX:{");
+        rx_times++;
+        printf("msg index %lu recived finish.\r\n",rx_times);
         for (uint8_t i = 0; i < rx_len; i++)
         {
             printf(" %x",rx_buf[i]);
         }
-        printf("}\r\n");
+        //printf("}\r\n");
+        LedToggle();
     }
     if ((rf_get_recv_flag() == RADIO_FLAG_RXTIMEOUT) || (rf_get_recv_flag() == RADIO_FLAG_RXERR))
     {

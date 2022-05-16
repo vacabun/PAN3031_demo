@@ -1,4 +1,4 @@
-"D:\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/JetBrains/CLion 2020.2.1/bin/ninja/win/ninja.exe" -G Ninja C:\Users\k\Desktop\PAN3031_demo\project
+"D:\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/JetBrains/CLion 2020.2.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\k\Desktop\PAN3031_demo\project -B C:\Users\k\Desktop\PAN3031_demo\project\cmake-build-debug_stm32
 -- The C compiler identification is GNU 5.4.1
 -- The CXX compiler identification is GNU 5.4.1
 -- The ASM compiler identification is GNU
