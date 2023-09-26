@@ -250,9 +250,9 @@ CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/k/Desktop/PAN3031_demo/project/cmake-build
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
-CMAKE_CACHE_MINOR_VERSION:INTERNAL=21
+CMAKE_CACHE_MINOR_VERSION:INTERNAL=22
 //Patch version of cmake used to create the current loaded cache
-CMAKE_CACHE_PATCH_VERSION:INTERNAL=1
+CMAKE_CACHE_PATCH_VERSION:INTERNAL=3
 //Path to CMake executable.
 CMAKE_COMMAND:INTERNAL=D:/JetBrains/CLion 2020.2.1/bin/cmake/win/bin/cmake.exe
 //Path to cpack program executable.
@@ -339,7 +339,7 @@ CMAKE_RANLIB-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_READELF
 CMAKE_READELF-ADVANCED:INTERNAL=1
 //Path to CMake installation.
-CMAKE_ROOT:INTERNAL=D:/JetBrains/CLion 2020.2.1/bin/cmake/win/share/cmake-3.21
+CMAKE_ROOT:INTERNAL=D:/JetBrains/CLion 2020.2.1/bin/cmake/win/share/cmake-3.22
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS
 CMAKE_SHARED_LINKER_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS_DEBUG
